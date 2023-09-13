@@ -1,0 +1,14 @@
+#um,
+#dois{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman",sans-serif;
+}
+
+#um{
+    color: white;
+    background-color: black;
+}
+
+#dois{
+    background-color: yellow;
+}
